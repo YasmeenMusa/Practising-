@@ -60,11 +60,11 @@
 // console.log(str.charAt(3)); //it will identifie the character as we put a number.
 
 //practice..
- let username = prompt("Please enter your name :");
- console.log("@",username,username.length);
+//  let username = prompt("Please enter your name :");
+//  console.log("@",username,username.length);
 
 
- let fullName = prompt("Please enter your name");
- let sug = "@"
- let result = sug+fullName+fullName.length
- console.log(result);
+//  let fullName = prompt("Please enter your name");
+//  let sug = "@"
+//  let result = sug+fullName+fullName.length
+//  console.log(result);
